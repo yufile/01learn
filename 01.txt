@@ -13,6 +13,6 @@ learn git
 learn git
 learn git
 learn git
-learn git  master test
-learn git  使用
+learn git
+learn git
 learn git  hot-fix test
