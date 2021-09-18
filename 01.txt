@@ -12,6 +12,6 @@ learn git
 learn git
 learn git
 learn git
-learn git
+learn git  master test
 learn git
 learn git
